@@ -14,6 +14,5 @@ public class Exercicio8 {
         System.out.println("Fahrenheit: " + resultadof + " Km/l");
         System.out.println("Kelvin: " + resultadok + " Km/l");
 
-        entrada.close();
-    }
+        entrada.close();    }
 }
